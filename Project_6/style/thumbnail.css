@@ -1,0 +1,19 @@
+.thumbnail {
+    display: block;
+    width: 300px;
+}
+
+.Search-bar {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+
+.title {
+    width: 300px;
+}
+
+.channel,
+.video-stats {
+    display: block;
+}
