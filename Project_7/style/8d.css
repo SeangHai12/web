@@ -1,0 +1,30 @@
+.first-name,
+.last-name {
+    width: 100px;
+    display: inline;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    margin: 10px 0px;
+    border: 1px solid rgb(200, 200, 200);
+}
+
+.email {
+    display: block;
+    margin-bottom: 10px;
+    width: 225px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(200, 200, 200);
+}
+
+.sign-up {
+    width: 250px;
+    color: white;
+    background-color: rgb(47, 127, 231);
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}

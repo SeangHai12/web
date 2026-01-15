@@ -1,0 +1,10 @@
+.no,
+.yes {
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
