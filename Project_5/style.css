@@ -1,0 +1,43 @@
+.Subcribe {
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    transition: 0.5s;
+}
+
+.Join {
+    color: rgb(67, 128, 241);
+    background-color: white;
+    border-color: rgb(67, 128, 241);
+    border-radius: 5px;
+    border-style: solid;
+    padding: 8px;
+    margin: 0px 20px;
+    transition: 0.3s;
+}
+
+.Tweet {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.Subcribe:hover {
+    cursor: pointer;
+    opacity: 0.6;
+    transition: 0.5s;
+}
+
+.Join:hover {
+    color: white;
+    background-color: rgb(67, 128, 241);
+    transition: 0.3s;
+}
+
+.Tweet:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
