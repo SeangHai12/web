@@ -1,0 +1,45 @@
+div {
+    display: inline-block;
+    width: 450px;
+    border: none;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    padding: 20px 10px 20px 10px;
+    border-radius: 10px;
+}
+
+.profile-link {
+    text-decoration: none;
+}
+
+.profile {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    vertical-align: middle;
+    border: none;
+    text-decoration: none;
+}
+
+.type {
+    border: none;
+    vertical-align: middle;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.tweet {
+    background-color: rgb(29, 155, 240);
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    vertical-align: middle;
+    transition: 0.4s;
+}
+
+.tweet:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.4s;
+}

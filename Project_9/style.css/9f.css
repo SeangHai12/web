@@ -1,0 +1,38 @@
+div {
+    margin-left: 20px;
+    display: inline-block;
+    width: 180px;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    font-family: arial;
+}
+
+.profile {
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.profile-name {
+    font-weight: bold;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+.friend-stats {
+    margin-left: 5px;
+    margin-top: 6px;
+    color: rgb(100, 100, 100);
+}
+
+.add-button {
+    color: white;
+    background-color: rgb(24, 119, 242);
+    margin: 0px 0px 10px 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
