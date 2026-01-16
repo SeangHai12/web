@@ -1,0 +1,30 @@
+.search-bar {
+    display: block;
+}
+
+.video-info {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+}
+
+.thumbnail {
+    width: 300px;
+    display: inline-block;
+}
+
+
+.video-title {
+    font-family: 'Roboto', arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+    width: 300px;
+
+}
+
+.video-link {
+    color: black;
+    text-decoration: none;
+}
