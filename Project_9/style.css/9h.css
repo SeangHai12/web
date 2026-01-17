@@ -1,0 +1,33 @@
+img {
+    display: block;
+    width: 300px;
+    margin: 0px auto;
+    padding: 10px 0px;
+
+}
+
+div {
+    text-align: center;
+}
+
+input {
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 20px;
+    width: 380px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 15px;
+
+}
+
+button {
+
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px 10px 5px;
+
+
+}
