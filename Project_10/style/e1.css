@@ -1,0 +1,41 @@
+.video-container {
+    display: inline-block;
+    margin: 10px 0px 0px 5px;
+}
+
+.video-card {
+    width: 310px;
+}
+
+.thumbnail {
+    width: 300px;
+}
+
+.info-container {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.channel-profile-pic {
+    margin: 0px 2px;
+    display: inline-block;
+    width: 35px;
+    vertical-align: top;
+}
+
+.channel-profile {
+    width: auto;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.info {
+    display: inline-block;
+    width: 260px;
+    vertical-align: top;
+}
+
+.video-title {
+    margin-top: 0px;
+}
