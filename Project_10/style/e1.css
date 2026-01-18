@@ -32,10 +32,22 @@
 
 .info {
     display: inline-block;
-    width: 260px;
+    width: 250px;
     vertical-align: top;
 }
 
 .video-title {
     margin-top: 0px;
+    font: 700 14px 'Roboto', arial;
+    line-height: 20px;
+}
+
+.channel-name,
+.video-stats {
+    font: normal 12px;
+    color: rgb(96, 96, 96);
+}
+
+p {
+    margin: 0px auto;
 }

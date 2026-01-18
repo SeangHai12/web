@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: 100px 100px 200px;
+    margin-top: 40px;
+}
+
+
+.div1 {
+    background-color: gray;
+}
+
+.div2 {
+    background-color: lightblue;
+}

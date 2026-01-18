@@ -1,0 +1,47 @@
+.profile-container {
+    display: block;
+
+}
+
+.profile-picture {
+    display: inline-block;
+}
+
+.user-profile {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.info {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+    margin: 5px;
+}
+
+
+.first-name,
+.middle-name,
+.last-name {
+    display: block;
+    margin: 20px 0pc;
+    color: rgb(96, 96, 96);
+
+}
+
+.first-name {
+    font: bold 15px arial;
+}
+
+.follow-button {
+    background-color: rgb(64, 136, 243);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    vertical-align: middle;
+}

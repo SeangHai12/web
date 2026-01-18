@@ -1,0 +1,28 @@
+.video-card {
+    width: 250px;
+}
+
+.thumbnail {
+    width: 250px;
+}
+
+.all-video-info {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 8px;
+}
+
+.video-title {
+    margin-top: 8px;
+}
+
+.video-stats,
+.channel-name {
+    margin: 0px;
+}
