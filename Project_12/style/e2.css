@@ -1,0 +1,22 @@
+.youtube-header {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    justify-content: space-between;
+
+}
+
+.left-sec {
+    display: block;
+}
+
+.menu {
+    margin: 10px;
+    width: 24px;
+    height: 24px;
+}
+
+.youtube-logo {
+    width: 90px;
+    height: 20px;
+}
